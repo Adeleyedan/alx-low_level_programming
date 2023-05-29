@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Print all single numbers line by line
+ * main - Prints numbers between 0 to 9.
  *
- * Retun: 0 (Always)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
